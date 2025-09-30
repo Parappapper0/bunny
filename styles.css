@@ -1,0 +1,12 @@
+#main_window {
+
+    aspect-ratio: 1;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main_title {
+    
+    text-align: center;
+}
